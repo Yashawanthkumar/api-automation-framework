@@ -1,4 +1,5 @@
 API Automation Framework
+
 📌 Overview
 This is a scalable and modular API automation framework built using Rest Assured, TestNG, and Java. It supports RESTful API testing, GraphQL testing, database validation, terminal command execution, and data-driven testing.
 
@@ -18,19 +19,25 @@ This is a scalable and modular API automation framework built using Rest Assured
 Install Java (JDK 11 or higher)
 Install Maven
 Install MySQL (if using DB integration)
+
 Configure IDE (Eclipse/IntelliJ) with TestNG Plugin
 🔹 Clone Repository
 git clone https://github.com/YOUR_GITHUB_USERNAME/api-automation-framework.git
 cd api-automation-framework
+
 🔹 Install Dependencies
 mvn clean install
 📌 How to Execute Tests?
+
 🔹 Run All Test Cases
 mvn test
+
 🔹 Run Specific Test Cases
 mvn test -Dgroups=SmokeTest
+
 🔹 Run Tests via testng.xml
 mvn test -DsuiteXmlFile=testng.xml
+
 📌 Technologies Used
 Java – Core programming language
 TestNG – Test execution framework
@@ -39,5 +46,6 @@ MySQL – Database integration
 Apache POI – Excel data handling
 Jackson/Gson – JSON serialization & deserialization
 Maven – Build & dependency management
+
 👥 Contributors
 Yashawanthkumar
