@@ -21,6 +21,7 @@ This is a **scalable and modular API automation framework** built using **Rest A
 
 ### 🔹 Clone Repository  
 ```git clone https://github.com/YOUR_GITHUB_USERNAME/api-automation-framework.git```
+
 ```cd api-automation-framework```
 
 ### 🔹 Install Dependencies
