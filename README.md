@@ -36,4 +36,4 @@ This is a **scalable and modular API automation framework** built using **Rest A
 ```mvn test -Dgroups=SmokeTest```
 
 ### 👥 Contributors
-Yashawanthkumar
+Yashawanthkumar : https://www.linkedin.com/in/yashawanthkumar-hodlur/
