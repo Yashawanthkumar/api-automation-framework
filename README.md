@@ -3,8 +3,6 @@
 ## 📌 Overview  
 This is a **scalable and modular API automation framework** built using **Rest Assured, TestNG, and Java**.  
 
----
-
 ## 🚀 Features  
 - ✅ **REST API Testing** – Automates GET, POST, PUT, PATCH, and DELETE requests  
 - ✅ **GraphQL Testing** – Supports query and mutation testing  
@@ -13,8 +11,6 @@ This is a **scalable and modular API automation framework** built using **Rest A
 - ✅ **Logging & Debugging** – Uses log messages and TestNG listeners  
 - ✅ **Parallel Execution** – Configured in `testng.xml` for optimized execution  
 
----
----
 
 ## 🛠 Setup & Installation  
 ### 🔹 Prerequisites  
@@ -27,16 +23,16 @@ This is a **scalable and modular API automation framework** built using **Rest A
 ```git clone https://github.com/YOUR_GITHUB_USERNAME/api-automation-framework.git```
 ```cd api-automation-framework```
 
-🔹 Install Dependencies
+### 🔹 Install Dependencies
 ```mvn clean install```
 
-📌 How to Execute Tests?
+### 📌 How to Execute Tests?
 
-🔹 Run All Test Cases
+### 🔹 Run All Test Cases
 ```mvn test```
 
-🔹 Run Specific Test Cases
+### 🔹 Run Specific Test Cases
 ```mvn test -Dgroups=SmokeTest```
 
-👥 Contributors
+### 👥 Contributors
 Yashawanthkumar
