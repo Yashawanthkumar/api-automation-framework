@@ -24,19 +24,19 @@ This is a **scalable and modular API automation framework** built using **Rest A
 - Configure **IDE (Eclipse/IntelliJ) with TestNG Plugin**  
 
 ### 🔹 Clone Repository  
-```git clone https://github.com/YOUR_GITHUB_USERNAME/api-automation-framework.git
-```cd api-automation-framework
+```git clone https://github.com/YOUR_GITHUB_USERNAME/api-automation-framework.git```
+```cd api-automation-framework```
 
 🔹 Install Dependencies
-```mvn clean install
+```mvn clean install```
 
 📌 How to Execute Tests?
 
 🔹 Run All Test Cases
-```mvn test
+```mvn test```
 
 🔹 Run Specific Test Cases
-```mvn test -Dgroups=SmokeTest
+```mvn test -Dgroups=SmokeTest```
 
 👥 Contributors
 Yashawanthkumar
