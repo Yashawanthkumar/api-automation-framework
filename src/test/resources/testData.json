@@ -1,0 +1,7 @@
+{
+    "users": [
+        { "name": "John Doe", "job": "Software Engineer" },
+        { "name": "Jane Smith", "job": "QA Engineer" },
+        { "name": "Mark Taylor", "job": "DevOps Engineer" }
+    ]
+}

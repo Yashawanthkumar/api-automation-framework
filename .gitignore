@@ -1,0 +1,21 @@
+# Ignore Maven target directory
+target/
+
+# Ignore IDE-specific files (Eclipse, IntelliJ, VS Code)
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Test Reports
+allure-results/
+allure-report/
+
+# Ignore environment files
+.env

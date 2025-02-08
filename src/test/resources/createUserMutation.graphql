@@ -1,0 +1,8 @@
+mutation CreateUser($name: String!, $job: String!) {
+  createUser(input: { name: $name, job: $job }) {
+    id
+    name
+    job
+    createdAt
+  }
+}
